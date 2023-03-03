@@ -18,6 +18,9 @@
     <ClCompile Include="src\Csv.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="example\test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Csv.h">
